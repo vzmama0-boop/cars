@@ -125,16 +125,19 @@
     }
 
     @media (max-width: 768px) {
-      nav {
-        padding: 20px;
-      }
       .preview {
-        padding: 40px 20px;
-      }
-      .hero h2 {
-        font-size: 36px;
-      }
-    }
+  padding: 15px 20px;
+}
+
+.hero h2 {
+  font-size: 36px;
+  margin-bottom: 8px;
+}
+
+.hero p {
+  margin-top: 0;
+  line-height: 1.3;
+}
   </style></head>
 <body>  <nav>
     <h1>vzmama</h1>
