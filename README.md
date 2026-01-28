@@ -27,7 +27,7 @@
       display: flex;
       justify-content: space-between;
       align-items: center;
-      padding: 20px 60px;
+      padding: 10px 20px;
       border-bottom: 1px solid rgba(160,120,90,0.3);
     }
 
@@ -117,7 +117,7 @@
 
     /* FOOTER */
     footer {
-      padding: 12px 40px;
+      padding: 15px 20px;
       border-top: 1px solid rgba(160,120,90,0.3);
       text-align: center;
       font-size: 12px;
