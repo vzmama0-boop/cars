@@ -65,8 +65,8 @@
     }
 
     .hero h2 {
-      font-size: 48px;
-      letter-spacing: 4px;
+      font-size: 36px;
+      letter-spacing: 8px;
       color: var(--brown);
     }
 
@@ -78,7 +78,7 @@
 
     /* PREVIEW SECTION */
     .preview {
-      padding: 40px;
+      padding: 20px;
     }
 
     .preview h3 {
