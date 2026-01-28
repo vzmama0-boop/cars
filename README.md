@@ -147,9 +147,6 @@
     <p>Capturing moments at car meets & events</p>
   </section>  <section class="preview">
     <h3>FEATURED</h3>
-      <div><span>Car Meet</span></div>
-      <div><span>Details</span></div>
-      <div><span>Event</span></div>
     <div class="grid">
   <div>
     <img src="car meet.jpg" alt="Car Meet">
