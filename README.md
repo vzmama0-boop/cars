@@ -78,12 +78,12 @@
 
     /* PREVIEW SECTION */
     .preview {
-      padding: 60px;
+      padding: 40px;
     }
 
     .preview h3 {
       color: var(--brown);
-      margin-bottom: 30px;
+      margin-bottom: 12px;
       letter-spacing: 2px;
     }
 
@@ -117,7 +117,7 @@
 
     /* FOOTER */
     footer {
-      padding: 30px 60px;
+      padding: 12px 40px;
       border-top: 1px solid rgba(160,120,90,0.3);
       text-align: center;
       font-size: 12px;
