@@ -34,7 +34,7 @@
     nav h1 {
       color: var(--brown);
       font-size: 20px;
-      letter-spacing: 2px;
+      letter-spacing: 1px;
     }
 
     nav ul {
@@ -126,7 +126,7 @@
 
     @media (max-width: 768px) {
       .preview {
-  padding: 15px 20px;
+  padding: 10px 20px;
 }
 
 .hero h2 {
