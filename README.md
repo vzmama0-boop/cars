@@ -140,7 +140,7 @@
 }
   </style></head>
 <body>  <nav>
-    <h1>uluma</h1>
+    <h1>vzmama</h1>
     <ul>
       <li><a href="https://vzmama0-boop.github.io/_/">Gallery</a></li>
       <li><a href="https://vzmama0-boop.github.io/about/">About</a></li>
