@@ -164,5 +164,5 @@
     <span>Event</span>
   </div>
   <footer>
-    © 2026 vzmama — All shots by me unless stated
+    © 2026 uluma — All shots by me unless stated
   </footer>
