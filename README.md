@@ -1,7 +1,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>uluma | Automotive & visuals </title>  <style>
+  <title>vzmama | Automotive & visuals </title>  <style>
     :root {
       --black: #0F0F0F;
       --brown: #6B4F3F;
@@ -164,5 +164,5 @@
     <span>Event</span>
   </div>
   <footer>
-    © 2026 uluma — All shots by me unless stated
+    © 2026 vzmama — All shots by me unless stated
   </footer>
