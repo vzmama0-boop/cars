@@ -152,11 +152,11 @@
     <h3>FEATURED</h3>
     <div class="grid">
   <div>
-    <img src="Carmeet.jpg" alt="Car meet">
+    <img src="67.jpg" alt="Car meet">
     <span>Car Meet</span>
   </div>
   <div>
-    <img src="details.jpg" alt="Details">
+    <img src="cina1.jpg" alt="Details">
     <span>Details</span>
   </div>
   <div>
