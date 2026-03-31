@@ -152,15 +152,15 @@
     <h3>FEATURED</h3>
     <div class="grid">
   <div>
-    <source src="cina4.mov" type="video/mov">
+    <img src="Car meet.jpg" alt="Car meet">
     <span>Car Meet</span>
   </div>
   <div>
-    <source src="cina0.mov" type="video/mov">
+    <img src="details.jpg" alt="Details">
     <span>Details</span>
   </div>
   <div>
-    <source src="cina5.mp4" type="video/mov">
+    <img src="event.jpg" alt="Event">
     <span>Event</span>
   </div>
   <footer>
