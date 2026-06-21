@@ -156,7 +156,7 @@
     <span>Car Meet</span>
   </div>
   <div>
-    <img src="two.jpg" alt="Details">
+    <img src="three.jpg" alt="Details">
     <span>Details</span>
   </div>
   <div>
