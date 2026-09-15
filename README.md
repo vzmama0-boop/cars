@@ -1,7 +1,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>zema | Automotive visuals </title>  <style>
+  <title>zema | Automotive Visuals </title>  <style>
     :root {
       --black: #0F0F0F;
       --brown: #6B4F3F;
@@ -146,7 +146,7 @@
       <li><a href="https://vzmama0-boop.github.io/about/">About</a></li>
     </ul>
   </nav>  <section class="hero">
-    <h2>Automotive & visuals</h2>
+    <h2>Automotive Visuals</h2>
     <p>Capturing moments at car meets & events</p>
   </section>  <section class="preview">
     <h3>FEATURED</h3>
