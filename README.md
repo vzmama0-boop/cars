@@ -1,7 +1,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>vzmama | Automotive visuals </title>  <style>
+  <title>zema | Automotive visuals </title>  <style>
     :root {
       --black: #0F0F0F;
       --brown: #6B4F3F;
@@ -140,7 +140,7 @@
 }
   </style></head>
 <body>  <nav>
-    <h1>vzmama</h1>
+    <h1>zema</h1>
     <ul>
       <li><a href="https://vzmama0-boop.github.io/_/">Gallery</a></li>
       <li><a href="https://vzmama0-boop.github.io/about/">About</a></li>
@@ -164,5 +164,5 @@
     <span>Event</span>
   </div>
   <footer>
-    © 2026 vzmama — All shots by me unless stated
+    © 2026 zema — All shots by me unless stated
   </footer>
