@@ -1,7 +1,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>zema | Automotive Visuals </title>  <style>
+  <title>zema | Automotive  Visuals </title>  <style>
     :root {
       --black: #0F0F0F;
       --brown: #6B4F3F;
@@ -146,22 +146,22 @@
       <li><a href="https://vzmama0-boop.github.io/about/">About</a></li>
     </ul>
   </nav>  <section class="hero">
-    <h2>Automotive Visuals</h2>
+    <h2>Automotive  Visuals</h2>
     <p>Capturing moments at car meets & events</p>
   </section>  <section class="preview">
-    <h3>FEATURED</h3>
+    <h3></h3>
     <div class="grid">
   <div>
     <img src="one.jpg" alt="Car meet">
-    <span>Car Meet</span>
+    <span></span>
   </div>
   <div>
     <img src="three.jpg" alt="Details">
-    <span>Details</span>
+    <span></span>
   </div>
   <div>
     <img src="event.jpg" alt="Event">
-    <span>Event</span>
+    <span></span>
   </div>
   <footer>
     © 2026 zema — All shots by me unless stated
