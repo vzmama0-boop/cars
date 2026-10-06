@@ -156,7 +156,7 @@
     <span></span>
   </div>
   <div>
-    <img src="r33.jpg" alt="Details">
+    <img src="f1.jpg" alt="Details">
     <span></span>
   </div>
   <div>
