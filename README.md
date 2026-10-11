@@ -1,6 +1,6 @@
 <head>
   <meta charset="UTF-8" />
-  <meta ="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title> | Automotive  Visuals </title>  <style>
     :root {
       --black: #0F0F0F;
