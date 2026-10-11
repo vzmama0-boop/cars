@@ -164,5 +164,5 @@
     <span></span>
   </div>
   <footer>
-    © 2026 zema — All shots by me unless stated
+    © 2026 yuzi — All shots by me unless stated
   </footer>
